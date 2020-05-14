@@ -1,0 +1,2 @@
+class PurveyorsProduct < ApplicationRecord
+end

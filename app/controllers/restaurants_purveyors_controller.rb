@@ -1,0 +1,2 @@
+class RestaurantsPurveyorsController < ApplicationController
+end
